@@ -2,9 +2,10 @@
 **B2C Commerce Architect | Salesforce Commerce Cloud Developer | React-Native Developer**
 
 📍 Sofia, Bulgaria  
-📧 kalinyorgov@gmail.com | 📞 
+📧 kalinyorgov@gmail.com | 
 [LinkedIn](https://linkedin.com/in/kalinyorgov)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalinYorgov&show_icons=true&theme=radical) 
 ---
 
 ## 🛠️ Professional Summary
@@ -73,7 +74,6 @@ Highly skilled **Salesforce Commerce Cloud (SFCC)** Developer and certified **B2
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalinYorgov&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinYorgov&layout=compact&theme=radical)
 
 ---
