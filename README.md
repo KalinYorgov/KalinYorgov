@@ -2,7 +2,7 @@
 **B2C Commerce Architect | Salesforce Commerce Cloud Developer | React-Native Developer**
 
 📍 Sofia, Bulgaria  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalinyorgov) | [📧 Email](mailto:kalinyorgov@gmail.com) | 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalinyorgov) | [📧 Email](mailto:kalinyorgov@gmail.com)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinYorgov&layout=compact&theme=radical)
 
