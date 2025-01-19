@@ -1,5 +1,10 @@
 # Kalin Yorgov  
-**B2C Commerce Architect | Salesforce Commerce Cloud Developer | React-Native Developer**
+<p align="center">
+  <img src="https://img.shields.io/badge/B2C_Commerce_Architect-blue?style=for-the-badge" alt="B2C Commerce Architect">
+  <img src="https://img.shields.io/badge/Salesforce_Commerce_Cloud_Developer-green?style=for-the-badge" alt="Salesforce Commerce Cloud Developer">
+  <img src="https://img.shields.io/badge/React--Native_Developer-purple?style=for-the-badge" alt="React-Native Developer">
+</p>
+
 
 📍 Sofia, Bulgaria  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalinyorgov) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kalinyorgov@gmail.com)
