@@ -1,9 +1,6 @@
 # Kalin Yorgov  
-<p align="center">
-  <img src="https://img.shields.io/badge/B2C_Commerce_Architect-blue?style=for-the-badge" alt="B2C Commerce Architect">
-  <img src="https://img.shields.io/badge/Salesforce_Commerce_Cloud_Developer-green?style=for-the-badge" alt="Salesforce Commerce Cloud Developer">
-  <img src="https://img.shields.io/badge/React--Native_Developer-purple?style=for-the-badge" alt="React-Native Developer">
-</p>
+<h1 align="center">B2C Commerce Architect</h1>
+<h2 align="center">Salesforce Commerce Cloud Developer | React-Native Developer</h2>
 
 
 📍 Sofia, Bulgaria  
