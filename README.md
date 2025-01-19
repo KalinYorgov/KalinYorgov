@@ -3,9 +3,9 @@
 
 📍 Sofia, Bulgaria  
 📧 kalinyorgov@gmail.com | 
-[LinkedIn](https://linkedin.com/in/kalinyorgov)
+[![LinkedIn](https://img.shields.io/static/v1?label=Connect&message=LinkedIn&color=0077B5&logo=linkedin&style=flat-square)](https://linkedin.com/in/kalinyorgov)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinYorgov&layout=compact&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalinYorgov&show_icons=true&theme=radical) 
 ---
 
 ## 🛠️ Professional Summary
@@ -73,8 +73,7 @@ Highly skilled **Salesforce Commerce Cloud (SFCC)** Developer and certified **B2
 ---
 
 ## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinYorgov&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalinYorgov&show_icons=true&theme=radical) 
 
 ---
 
